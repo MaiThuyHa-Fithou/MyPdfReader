@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPdfReader</string>
+    <string name="title">Open file PDF</string>
+    <string name="btnViewPage">Open PDF in ViewPager</string>
+    <string name="btnFromAsset">Open PDF from Asset</string>
+    <string name="btnFromStorage">Open PDF from Storage</string>
+    <string name="btnFromInternet">Open PDF from Internet</string>
+    <string name="btnPdfRender">Open Pdf From PDFRender</string>
+</resources>
